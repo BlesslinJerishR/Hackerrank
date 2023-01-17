@@ -44,3 +44,23 @@ function countingValleys(steps, path) {
     // Finally when for cycle ends, return the valleyCounter
     return valleyCounter;
 }
+
+
+//Solved Again
+function countingValleys(steps, path) {
+    // Write your code here
+    let altitude = 0;
+    let valley = 0;
+    for(let step = 0; step < path.length; step++){
+        let letter = path.charAt(step)
+        if(letter === "U"){
+            altitude++;
+            if(altitude === 0){
+                valley++;
+            }
+        }else{
+            altitude--;
+        }
+    }
+    return valley;
+}
