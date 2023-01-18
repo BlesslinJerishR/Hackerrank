@@ -24,6 +24,6 @@
 ---
 > Find Digits
 ---
-> Bon Apetite
+
 ---
 #### [ Developer : Blesslin Jerish R ]
