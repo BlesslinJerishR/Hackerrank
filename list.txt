@@ -1,5 +1,3 @@
-> Breaking best and worst records
->
 > Find Digits
 >
 > Jumping on the Clouds
