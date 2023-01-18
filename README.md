@@ -2,10 +2,8 @@
 
 - Just some Problems from Hackerrank.
 
----
-
 ### Javascript
-
+---
 > Solve Me First
 >
 > Grading Students
@@ -19,6 +17,8 @@
 > Cats and a Mouse
 >
 > Designer PDF Viewer
+>
+> Strange Advertising
 >
 ---
 
