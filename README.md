@@ -26,4 +26,10 @@
 ---
 > Extra Long Factorials
 ---
+> Beautiful Days at the Movies
+---
+> The Hurdle Race
+---
+> Jumping on the Clouds
+---
 #### [ Developer : Blesslin Jerish R ]
