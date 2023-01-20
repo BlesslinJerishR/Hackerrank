@@ -1,6 +1,6 @@
 ## Hackerrank
 
-- Collection of Problem's solution from Hackerrank.
+- Collection of Problem's solution from Hackerrank in JavaScript.
 
 ### Javascript
 ---
