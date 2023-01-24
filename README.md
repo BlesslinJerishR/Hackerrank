@@ -2,6 +2,7 @@
 
 - Collection of Problem's solution from Hackerrank in JavaScript.
 
+### Poblem Solving
 ### Javascript
 ---
 > Solve Me First
@@ -33,6 +34,8 @@
 > Jumping on the Clouds
 ---
 > Utopian Tree
+---
+> Bon Appetit
 ---
 
 - #### Pending : list.txt
