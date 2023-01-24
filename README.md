@@ -2,8 +2,8 @@
 
 - Collection of Problem's solution from Hackerrank in JavaScript.
 
-### Poblem Solving
-### Javascript
+### Poblem Solving > Algorithms
+## Javascript
 ---
 > Solve Me First
 ---
