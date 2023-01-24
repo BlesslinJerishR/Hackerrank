@@ -38,6 +38,6 @@
 > Bon Appetit
 ---
 
-- #### Pending ( IDK ) : list.txt
+- ### Pending ( IDK ) : list.txt
 
 #### [ Developer : Blesslin Jerish R ]
