@@ -37,7 +37,10 @@
 ---
 > Bon Appetit
 ---
-
+> Simple Array Sum
+---
+>
+---
 - ### Pending ( IDK ) : list.txt
 
 #### [ Developer : Blesslin Jerish R ]
