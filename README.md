@@ -39,6 +39,8 @@
 ---
 > Simple Array Sum
 ---
+> Compare the Triplets
+---
 >
 ---
 - ### Pending ( IDK ) : list.txt
