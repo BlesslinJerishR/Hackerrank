@@ -17,3 +17,15 @@ function miniMaxSum(arr) {
     }
     console.log(min, max);
 }
+
+or
+
+function miniMaxSum(arr) {
+    // Write your code here
+    let min = 0;
+    let max = 0;
+    let total = arr.reduce((a,b) => a+b);
+    min += total - Math.max(...arr);
+    max += total - Math.min(...arr);
+    console.log(min,max);
+}   
