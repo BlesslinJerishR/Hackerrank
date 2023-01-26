@@ -47,6 +47,8 @@
 ---
 > Staircase
 ---
+> Mini Max Sum
+---
 - ### Pending ( IDK ) : list.txt
 
 #### [ Developer : Blesslin Jerish R ]
