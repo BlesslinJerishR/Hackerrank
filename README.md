@@ -1,7 +1,8 @@
 ## Hackerrank
 
 - Collection of Problem's solution from Hackerrank in JavaScript.
-# Rank : 617574
+
+# Rank : 599353
 
 ### Poblem Solving > Algorithms
 ## Javascript
