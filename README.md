@@ -2,7 +2,7 @@
 
 - Collection of Problem's solution from Hackerrank in JavaScript.
 
-# Rank : 599353
+# Rank : 599606
 
 ### Poblem Solving > Algorithms
 ## Javascript
