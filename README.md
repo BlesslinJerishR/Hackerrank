@@ -2,11 +2,12 @@
 
 - Collection of Problem's solution from Hackerrank in JavaScript.
 
-# Rank : 582659
+# Rank : 566033
 
 ### Poblem Solving > Algorithms
-## Javascript
----
+- ## Javascript
+
+# Easy
 > Solve Me First
 ---
 > Grading Students
@@ -26,8 +27,6 @@
 > Breaking best and worst records
 ---
 > Find Digits
----
-> Extra Long Factorials
 ---
 > Beautiful Days at the Movies
 ---
@@ -52,6 +51,11 @@
 > Mini Max Sum
 ---
 > Divisible Sum Pairs
+---
+> Migratory Birds
+---
+# Medium
+> Extra Long Factorials
 ---
 - ### Pending ( IDK or Need to Learn ) : list.txt
 
