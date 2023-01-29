@@ -2,7 +2,7 @@
 
 - Collection of Problem's solution from Hackerrank in JavaScript.
 
-# Rank : 599606
+# Rank : 582659
 
 ### Poblem Solving > Algorithms
 ## Javascript
@@ -51,6 +51,8 @@
 ---
 > Mini Max Sum
 ---
-- ### Pending ( IDK ) : list.txt
+> Divisible Sum Pairs
+---
+- ### Pending ( IDK or Need to Learn ) : list.txt
 
 #### [ Developer : Blesslin Jerish R ]
